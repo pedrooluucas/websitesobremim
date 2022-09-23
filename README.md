@@ -10,7 +10,7 @@
     <p>Meu nome é Pedro Lucas</p>
     <p>Atividades que mais gosto:</p>
     <ul>
-    	<li>Projeteiros</li>
+    	<li>Desenvolver</li>
         <li>Progamar</li>
     </ul>
     <button onclick="alert('não é macarrão, é chocolate :)')">Comida que mais gosto</button>
