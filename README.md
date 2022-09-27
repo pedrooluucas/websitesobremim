@@ -19,12 +19,12 @@
      <br>
      </ul>
 
-      <ul>
-    	<p>Aréa que Estudo</p>
-     
+     	<p>Aréa que Estudo</p>
+     <ul>
      <li>Ná Areá de TI</li>
      <li>FullStack</li>
-    </ul>
+     </ul>
+    
     <button onclick="alert('não é macarrão, é chocolate :)')">Comida que mais gosto</button>
     <br>
     <br>
