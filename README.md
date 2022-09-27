@@ -5,7 +5,7 @@
 <html>
  <head>
 
- 	<title>Sobre mim</title>
+ 	<title> Sobre mim </title>
 
  </head>
  <body>
@@ -17,8 +17,11 @@
      <li>Progamar</li>
      <br>
      <br>
+     </ul>
+
+      <ul>
     	<p>Aréa que Estudo</p>
-      
+     
      <li>Ná Areá de TI</li>
      <li>FullStack</li>
     </ul>
