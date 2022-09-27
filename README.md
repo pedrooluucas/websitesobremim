@@ -14,11 +14,17 @@
     <p>Atividades que mais gosto:</p>
     <ul>
     	<li>Desenvolver</li>
-        <li>Progamar</li>
+     <li>Progamar</li>
+     <br>
+     <br>
+    	<p>Aréa que Estudo</p>
+      
+     <li>Ná Areá de TI</li>
+     <li>FullStack</li>
     </ul>
     <button onclick="alert('não é macarrão, é chocolate :)')">Comida que mais gosto</button>
     <br>
     <br>
-    <img src="https://i0.statig.com.br/bancodeimagens/69/b2/my/69b2mydwu808ftj2k95ehggwd.jpg"> 
+    <img src="https://i0.statig.com.br/bancodeimagens/69/b2/my/69b2mydwu808ftj2k95ehggwd.jpg">
  </body>
 </html>
