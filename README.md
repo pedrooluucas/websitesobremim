@@ -1,6 +1,6 @@
 # websitesobremim
 
-<!DOCTYPE html>
+<!DOCTYPE html5>
 <html>
  <head>
  	<title>Sobre mim</title>
