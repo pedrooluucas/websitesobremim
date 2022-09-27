@@ -19,11 +19,6 @@
      <br>
      </ul>
 
-     	<p>Aréa que Estudo</p>
-     <ul>
-     <li>Ná Areá de TI</li>
-     <li>FullStack</li>
-     </ul>
     
     <button onclick="alert('não é macarrão, é chocolate :)')">Comida que mais gosto</button>
     <br>
